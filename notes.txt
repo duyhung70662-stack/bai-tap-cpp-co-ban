@@ -1,0 +1,6 @@
+Ghi chú học tập Git:
+- Working Directory: Thư mục làm việc thực tế
+- Staging Area: Nơi chuẩn bị các thay đổi trước khi commit
+- Repository: Kho lưu trữ lịch sử commit
+- git log --oneline: Xem lịch sử ngắn gọn 1 dòng
+- git diff: Xem chi tiết thay đổi giữa các phiên bản
