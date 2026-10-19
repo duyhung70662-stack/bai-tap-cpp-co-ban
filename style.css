@@ -6,9 +6,8 @@
 
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background-color: #ff0000 !important; /* Lỗi cố tình: màu nền đỏ chói */
-    color: #ffff00 !important; /* Lỗi cố tình: chữ vàng */
-    font-size: 80px;
+    background-color: #f8f9fa;
+    color: #333;
 }
 
 header {
