@@ -1,0 +1,4 @@
+Thông tin về project:
+- Dự án thực hành Git cơ bản (Bài tập 5)
+- Tác giả: duyhung70662-stack
+- File: about.txt
